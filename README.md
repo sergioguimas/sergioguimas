@@ -1,36 +1,59 @@
 # 👋 Olá, eu sou Sérgio Guimarães
 
-Desenvolvedor focado em transformar necessidades de negócio em sistemas funcionais, escaláveis e fáceis de operar.
+**Full-stack developer criando SaaS, automações e agentes de IA para resolver problemas reais de negócio.**
 
-Atuo principalmente com aplicações web, automações, integrações com IA, bancos de dados relacionais e arquitetura multi-tenant. Tenho interesse especial em criar ferramentas que resolvem problemas reais: desde sistemas internos para empresas até plataformas SaaS com autenticação, permissões, dashboards, integrações externas e fluxos automatizados.
-
-Atualmente, venho trabalhando com projetos envolvendo **Next.js, React, TypeScript, Node.js, Supabase, PostgreSQL, Docker, automações e agentes de IA**.
+`Next.js` · `TypeScript` · `Node.js` · `Supabase` · `PostgreSQL` · `Docker`
 
 ---
+
+Construo sistemas web, dashboards, integrações e fluxos automatizados com foco em produto, operação e escalabilidade.
 
 ## 🚀 O que eu construo
 
-- **Sistemas web sob medida** para empresas e operações internas
-- **SaaS multi-tenant** com autenticação, permissões e isolamento de dados
-- **Dashboards administrativos** com foco em produtividade e tomada de decisão
-- **Automações de processos** usando APIs, webhooks e integrações externas
-- **Agentes de IA e bases de conhecimento** para suporte, vendas e produtividade
-- **Integrações com WhatsApp, Supabase, APIs externas e bancos legados**
-- **Migrações e organização de dados** em PostgreSQL, CSV, PDF e sistemas ERP
+| Produto | Automação | Dados | IA |
+|---|---|---|---|
+| SaaS, dashboards e sistemas internos | APIs, webhooks e integrações | PostgreSQL, Supabase e migrações | Agentes, bases de conhecimento e fluxos inteligentes |
 
----
+## 🧩 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/sergioguimas/pandora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioguimas&repo=pandora&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/sergioguimas/eliza">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioguimas&repo=eliza&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/sergioguimas/geti-fidelidade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioguimas&repo=geti-fidelidade&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/sergioguimas/app-disponibilidade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioguimas&repo=app-disponibilidade&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+- **Pandora** → hub de agentes de IA e produtividade administrativa  
+- **Eliza** → gestão clínica com automações e WhatsApp  
+- **Fidelidade** → plataforma SaaS de fidelização para lojistas  
+- **Disponibilidade** → monitoramento operacional de equipes em tempo real  
 
 ## 🧠 Áreas de interesse
 
-- IA aplicada a negócios
-- Automação de workflows
-- Arquitetura de produtos SaaS
-- Multi-tenancy e segurança de dados
-- UX para sistemas administrativos
-- Integrações com APIs e mensageria
-- Produtos digitais viáveis, simples e úteis
-
----
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🤖 IA & Automação</strong><br>
+      Agentes de IA, bases de conhecimento e workflows inteligentes
+    </td>
+    <td align="center" width="33%">
+      <strong>🏗️ SaaS & Arquitetura</strong><br>
+      Multi-tenancy, autenticação, permissões e segurança de dados
+    </td>
+    <td align="center" width="33%">
+      <strong>📊 Produto & Operação</strong><br>
+      Dashboards, sistemas internos e produtos digitais viáveis
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Stack principal
 
@@ -52,41 +75,6 @@ Atualmente, venho trabalhando com projetos envolvendo **Next.js, React, TypeScri
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🧩 Projetos e experiências recentes
-
-### 🟣 Pandora
-Hub interno de agentes de IA em formato de chat, inspirado em uma interface estilo WhatsApp.  
-Foco em produtividade administrativa, múltiplos agentes, bases de conhecimento, conversas por usuário e futura integração com WhatsApp.
-
-**Stack:** Next.js, Supabase, TypeScript, IA generativa, autenticação e multiusuário.
-
----
-
-### 🟢 Eliza
-Sistema para gestão de clínicas, agendamentos, lembretes automatizados e integração com WhatsApp.  
-Inclui fluxo público de agendamento, configurações por organização, mensagens personalizadas e automações via cron.
-
-**Stack:** Next.js, Supabase, Evolution API, PostgreSQL, automações e multi-tenant.
-
----
-
-### 🟡 Fidelidade
-Plataforma de fidelidade para lojistas, com clientes, compras, pontuação, resgates, níveis, regras de expiração e painel administrativo.  
-Projeto com forte uso de regras de negócio, PostgreSQL, RLS e cálculos transacionais.
-
-**Stack:** Next.js, Supabase, PostgreSQL, RLS, funções SQL e dashboards administrativos.
-
----
-
-### 🔵 Disponibilidade
-Aplicação para acompanhamento de status de funcionários em tempo real, com foco em operação interna e futuras integrações por webhooks.
-
-**Stack:** React, Node.js, Fastify, Supabase, PostgreSQL e PWA.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,12 +85,8 @@ Aplicação para acompanhamento de status de funcionários em tempo real, com fo
 
 </div>
 
----
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-guimarães-ads)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimaraes.sja@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sergiojunio.guimas)
-
----
