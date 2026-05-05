@@ -2,9 +2,9 @@
 
 **Full-stack developer criando SaaS, automações e agentes de IA para resolver problemas reais de negócio.**
 
-[LinkedIn](https://linkedin.com/in/sergio-guimarães-ads) · [Portfólio](https://sgdev.cloud) · [Email](mailto:guimaraes.sja@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sergiojunio.guimas) • [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-guimarães-ads) • [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guimaraes.sja@gmail.com)
 
-`Next.js` · `TypeScript` · `Node.js` · `Supabase` · `PostgreSQL` · `Docker`
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) · ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) · ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) · ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) · ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) · ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
